@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTB50C7AW+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamza\\سطح المكتب\\PROJECT4\\PROJECT\\PROJECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamza\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\hamza\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
